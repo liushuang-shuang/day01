@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("第一次更新");
         System.out.println("第二次更新");
         System.out.println("master添加");
+        System.out.println("dev添加");
     }
 }
