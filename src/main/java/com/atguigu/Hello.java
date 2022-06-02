@@ -12,5 +12,7 @@ public class Hello {
         System.out.println("第二次更新");
         System.out.println("master添加");
         System.out.println("dev添加");
+        System.out.println("测试使用ssh协议提交到远程仓库");
+        /*System.out.println("测试上传到远程仓库，然后让好友拉取");*/
     }
 }
